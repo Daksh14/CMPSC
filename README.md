@@ -1,0 +1,2 @@
+# CMPSC
+comp sci class
